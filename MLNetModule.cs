@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProjektAI
 {
-    internal class MLNetModule
+    public class MLNetModule
     {
-
+        
     }
 }
